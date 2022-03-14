@@ -15,14 +15,9 @@ export default function FirstPost() {
         src="/images/profile.jpg"
         height={144}
         width={144}
-        alt="Your Name"
+        alt="Márton Nemeskéri"
       />
       <h1>First Post</h1>
-      <h2>
-        <Link href="/">
-          <a>Back to home</a>
-        </Link>
-      </h2>
     </Layout>
   );
 };
