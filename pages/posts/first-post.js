@@ -17,7 +17,7 @@ export default function FirstPost() {
         width={144}
         alt="Márton Nemeskéri"
       />
-      <h1>First Post</h1>
+      <h1>This is some modification done on the 'dev' branch</h1>
     </Layout>
   );
 };
